@@ -1,6 +1,6 @@
 # LightStream: Wisely Lightening Mobile Short Video Streaming for User-Vendor Win-Win
 
-*[View code of LightStream on GitHub](https://github.com/LightStream2025/lightstream2025.github.io)*.
+*[View code of LightStream on GitHub](https://github.com/LightStream2026/lightstream2026.github.io)*.
 
 ## TL;DR
 LightStream is a prefetching algorithm designed for short video streams, effectively **minimizing bandwidth waste**.
